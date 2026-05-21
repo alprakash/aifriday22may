@@ -1,0 +1,35 @@
+Architecture diagram : ER Diagram 
+
+Common Repository >> Edit Access to Team Members >> Split up 
+
+(1) Front End : Stream lit 
+
+(2) Back End : Python Flask
+
+(3) DB Connectivity : 
+
+(3) AI- Agent Building 
+
+(4) Documents Preparation
+
+(5) Deployed Use Case Explanation 
+
+set a persona act as a senior software developer or as an solutions architect 
+
+RAG : 
+draft a solution which can be able to deliver all deliverables 
+
+Save the prompt 
+
+Step 1 : Data Set Generation is the detailed part ( Sample Data Set ) 
+
+Feed it to the LLM >> and ask it to generate the Records ( Data Set ) >> or use Kaggle ( STREAMLIT UI ) 
+
+Edge Case handling 
+
+Tools : Claude Code AI 
+
+Document generation : Explanation & visual presentation ( Use Microsoft Copilot ) 
+
+git remote set-url origin https://github.com/alprakash/aifriday22may.git
+
