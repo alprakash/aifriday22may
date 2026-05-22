@@ -1,0 +1,101 @@
+Project_ID,Project_Name,Portfolio_Track,Schedule_Status,Quality_Status,Budget_Status,SLA_Performance_Pct,CSAT_Score,Resource_Attrition_Pct,Defect_Backlog_Count,Critical_Escalations,Primary_Leadership_Concern
+PRJ-201,Omega Data Lake,Data & AI,Green,Green,Green,98.7,4.6,8.0,10,0,None - High automation and stable delivery
+PRJ-202,Phi Mobile Suite,Mobility & UX,Amber,Red,Amber,92.1,3.0,27.0,60,2,Defect leakage and resource ramp-up delays
+PRJ-203,Chi ERP Upgrade,Enterprise Systems,Red,Amber,Red,85.0,2.9,33.0,80,4,Vendor delays and budget overruns
+PRJ-204,Psi Cloud Migration,Cloud & Infra,Green,Green,Green,99.2,4.8,6.0,8,0,None - Predictable sprints and strong governance
+PRJ-205,Alpha2 DevOps Suite,DevOps,Green,Green,Green,98.9,4.7,7.0,12,0,None - High team efficiency
+PRJ-206,Beta2 Security Audit,Cybersecurity,Amber,Green,Green,94.5,4.1,15.0,20,1,Skill shortage in security profiles
+PRJ-207,Gamma2 CRM Integration,Enterprise Systems,Amber,Green,Amber,91.0,3.7,13.0,18,1,Schedule slip due to API dependencies
+PRJ-208,Delta2 Analytics,Data & AI,Red,Green,Green,84.2,4.0,21.0,30,2,Milestone misses from infra instability
+PRJ-209,Epsilon2 Modernization,Legacy Modernization,Amber,Red,Amber,95.3,2.8,36.0,75,3,High attrition in core team
+PRJ-210,Zeta2 Chatbot,Data & AI,Green,Green,Amber,97.8,4.4,13.0,11,0,Margin erosion from R&D spikes
+PRJ-211,Eta2 Supply Chain,Digital Transformation,Green,Green,Green,96.3,4.3,9.0,14,0,None - Smooth rollout
+PRJ-212,Theta2 API Gateway,Cloud & Infra,Green,Green,Green,98.5,4.6,5.0,6,0,None - Predictable velocity
+PRJ-213,Iota2 Identity Mgmt,Cybersecurity,Green,Green,Green,99.1,4.2,10.0,8,0,None - Strong compliance
+PRJ-214,Kappa2 Microservices,Digital Transformation,Amber,Green,Red,90.8,3.1,24.0,36,2,Communication gaps between teams
+PRJ-215,Lambda2 Billing Engine,Enterprise Systems,Red,Amber,Red,87.2,3.5,17.0,49,3,Integration complexity impacting metrics
+PRJ-216,Mu2 Procurement,Digital Transformation,Green,Green,Green,97.5,4.5,7.0,9,0,None - Proactive risk tracking
+PRJ-217,Nu2 Frontend Redesign,Mobility & UX,Green,Red,Green,95.1,2.7,31.0,55,3,Defect leakage and CSAT dip
+PRJ-218,Xi2 Mainframe Offload,Legacy Modernization,Amber,Green,Green,93.7,4.1,11.0,21,1,Skill shortages on legacy code
+PRJ-219,Omicron2 IoT Platform,Cloud & Infra,Green,Green,Green,98.3,4.7,9.0,12,0,None - Strong execution
+PRJ-220,Phi2 Data Mesh,Data & AI,Green,Green,Green,99.0,4.8,8.0,7,0,None - High customer satisfaction
+PRJ-221,Chi2 Mobile Payments,Mobility & UX,Amber,Red,Amber,91.5,3.2,29.0,62,2,Defect leakage and resource issues
+PRJ-222,Psi2 ERP Cloud,Enterprise Systems,Red,Amber,Red,86.0,3.0,34.0,82,4,Vendor delays and budget overruns
+PRJ-223,Omega2 CloudOps,Cloud & Infra,Green,Green,Green,99.3,4.9,6.0,7,0,None - Predictable sprints
+PRJ-224,Alpha3 DevSecOps,DevOps,Green,Green,Green,98.6,4.6,8.0,13,0,None - High team efficiency
+PRJ-225,Beta3 Security Suite,Cybersecurity,Amber,Green,Green,94.2,4.0,16.0,22,1,Skill shortage in security
+PRJ-226,Gamma3 CRM Portal,Enterprise Systems,Amber,Green,Amber,90.7,3.6,14.0,19,1,Schedule slip due to API
+PRJ-227,Delta3 Analytics Platform,Data & AI,Red,Green,Green,83.9,3.9,22.0,32,2,Milestone misses from infra
+PRJ-228,Epsilon3 Legacy Modernization,Legacy Modernization,Amber,Red,Amber,94.8,2.7,37.0,77,3,High attrition in team
+PRJ-229,Zeta3 Chatbot,Data & AI,Green,Green,Amber,97.6,4.3,12.0,10,0,Margin erosion from R&D
+PRJ-230,Eta3 Supply Chain Portal,Digital Transformation,Green,Green,Green,96.1,4.2,10.0,16,0,None - Smooth rollout
+PRJ-231,Theta3 API Gateway,Cloud & Infra,Green,Green,Green,98.4,4.5,6.0,8,0,None - Predictable velocity
+PRJ-232,Iota3 Identity Mgmt,Cybersecurity,Green,Green,Green,99.2,4.1,11.0,9,0,None - Strong compliance
+PRJ-233,Kappa3 Microservices,Digital Transformation,Amber,Green,Red,90.5,3.0,26.0,39,2,Communication gaps
+PRJ-234,Lambda3 Billing Engine,Enterprise Systems,Red,Amber,Red,87.5,3.4,18.0,52,3,Integration complexity
+PRJ-235,Mu3 Procurement Portal,Digital Transformation,Green,Green,Green,97.3,4.4,8.0,11,0,None - Proactive risk tracking
+PRJ-236,Nu3 Frontend Redesign,Mobility & UX,Green,Red,Green,95.3,2.6,32.0,57,3,Defect leakage and CSAT dip
+PRJ-237,Xi3 Mainframe Offload,Legacy Modernization,Amber,Green,Green,93.2,4.2,13.0,23,1,Skill shortages
+PRJ-238,Omicron3 IoT Platform,Cloud & Infra,Green,Green,Green,98.1,4.8,10.0,14,0,None - Strong execution
+PRJ-239,Phi3 Data Mesh,Data & AI,Green,Green,Green,99.1,4.9,7.0,6,0,None - High satisfaction
+PRJ-240,Chi3 Mobile Payments,Mobility & UX,Amber,Red,Amber,91.2,3.3,28.0,61,2,Defect leakage
+PRJ-241,Psi3 ERP Cloud,Enterprise Systems,Red,Amber,Red,85.7,2.8,35.0,84,4,Vendor delays
+PRJ-242,Omega3 CloudOps,Cloud & Infra,Green,Green,Green,99.4,4.7,5.0,5,0,None - Predictable sprints
+PRJ-243,Alpha4 DevSecOps,DevOps,Green,Green,Green,98.8,4.5,9.0,14,0,None - High efficiency
+PRJ-244,Beta4 Security Suite,Cybersecurity,Amber,Green,Green,94.3,4.2,17.0,23,1,Skill shortage
+PRJ-245,Gamma4 CRM Portal,Enterprise Systems,Amber,Green,Amber,90.9,3.8,15.0,20,1,Schedule slip
+PRJ-246,Delta4 Analytics Platform,Data & AI,Red,Green,Green,84.1,4.0,23.0,34,2,Milestone misses
+PRJ-247,Epsilon4 Legacy Modernization,Legacy Modernization,Amber,Red,Amber,94.6,2.9,38.0,79,3,High attrition
+PRJ-248,Zeta4 Chatbot,Data & AI,Green,Green,Amber,97.7,4.2,11.0,9,0,Margin erosion
+PRJ-249,Eta4 Supply Chain Portal,Digital Transformation,Green,Green,Green,96.2,4.1,11.0,17,0,None - Smooth rollout
+PRJ-250,Theta4 API Gateway,Cloud & Infra,Green,Green,Green,98.6,4.4,7.0,10,0,None - Predictable velocity
+PRJ-251,Iota4 Identity Mgmt,Cybersecurity,Green,Green,Green,99.3,4.0,12.0,10,0,None - Strong compliance
+PRJ-252,Kappa4 Microservices,Digital Transformation,Amber,Green,Red,90.3,3.2,27.0,41,2,Communication gaps
+PRJ-253,Lambda4 Billing Engine,Enterprise Systems,Red,Amber,Red,87.8,3.3,19.0,54,3,Integration complexity
+PRJ-254,Mu4 Procurement Portal,Digital Transformation,Green,Green,Green,97.1,4.3,9.0,13,0,None - Proactive risk tracking
+PRJ-255,Nu4 Frontend Redesign,Mobility & UX,Green,Red,Green,95.6,2.5,33.0,59,3,Defect leakage and CSAT dip
+PRJ-256,Xi4 Mainframe Offload,Legacy Modernization,Amber,Green,Green,93.5,4.3,14.0,25,1,Skill shortages
+PRJ-257,Omicron4 IoT Platform,Cloud & Infra,Green,Green,Green,98.2,4.9,11.0,16,0,None - Strong execution
+PRJ-258,Phi4 Data Mesh,Data & AI,Green,Green,Green,99.2,4.7,6.0,5,0,None - High satisfaction
+PRJ-259,Chi4 Mobile Payments,Mobility & UX,Amber,Red,Amber,91.7,3.4,30.0,63,2,Defect leakage
+PRJ-260,Psi4 ERP Cloud,Enterprise Systems,Red,Amber,Red,86.3,2.7,36.0,86,4,Vendor delays
+PRJ-261,Omega4 CloudOps,Cloud & Infra,Green,Green,Green,99.5,4.8,4.0,4,0,None - Predictable sprints
+PRJ-262,Alpha5 DevSecOps,DevOps,Green,Green,Green,98.5,4.4,10.0,15,0,None - High efficiency
+PRJ-263,Beta5 Security Suite,Cybersecurity,Amber,Green,Green,94.1,4.3,18.0,24,1,Skill shortage
+PRJ-264,Gamma5 CRM Portal,Enterprise Systems,Amber,Green,Amber,91.1,3.9,16.0,21,1,Schedule slip
+PRJ-265,Delta5 Analytics Platform,Data & AI,Red,Green,Green,84.3,4.1,24.0,36,2,Milestone misses
+PRJ-266,Epsilon5 Legacy Modernization,Legacy Modernization,Amber,Red,Amber,94.9,2.6,39.0,81,3,High attrition
+PRJ-267,Zeta5 Chatbot,Data & AI,Green,Green,Amber,97.9,4.1,13.0,11,0,Margin erosion
+PRJ-268,Eta5 Supply Chain Portal,Digital Transformation,Green,Green,Green,96.4,4.0,12.0,18,0,None - Smooth rollout
+PRJ-269,Theta5 API Gateway,Cloud & Infra,Green,Green,Green,98.7,4.3,8.0,12,0,None - Predictable velocity
+PRJ-270,Iota5 Identity Mgmt,Cybersecurity,Green,Green,Green,99.4,3.9,13.0,11,0,None - Strong compliance
+PRJ-271,Kappa5 Microservices,Digital Transformation,Amber,Green,Red,90.1,3.1,28.0,43,2,Communication gaps
+PRJ-272,Lambda5 Billing Engine,Enterprise Systems,Red,Amber,Red,88.1,3.2,20.0,56,3,Integration complexity
+PRJ-273,Mu5 Procurement Portal,Digital Transformation,Green,Green,Green,97.0,4.2,10.0,15,0,None - Proactive risk tracking
+PRJ-274,Nu5 Frontend Redesign,Mobility & UX,Green,Red,Green,95.8,2.4,34.0,61,3,Defect leakage and CSAT dip
+PRJ-275,Xi5 Mainframe Offload,Legacy Modernization,Amber,Green,Green,93.8,4.4,15.0,27,1,Skill shortages
+PRJ-276,Omicron5 IoT Platform,Cloud & Infra,Green,Green,Green,98.4,4.7,12.0,18,0,None - Strong execution
+PRJ-277,Phi5 Data Mesh,Data & AI,Green,Green,Green,99.3,4.6,5.0,3,0,None - High satisfaction
+PRJ-278,Chi5 Mobile Payments,Mobility & UX,Amber,Red,Amber,91.9,3.5,31.0,65,2,Defect leakage
+PRJ-279,Psi5 ERP Cloud,Enterprise Systems,Red,Amber,Red,86.6,2.6,37.0,88,4,Vendor delays
+PRJ-280,Omega5 CloudOps,Cloud & Infra,Green,Green,Green,99.6,4.9,3.0,3,0,None - Predictable sprints
+PRJ-281,Alpha6 DevSecOps,DevOps,Green,Green,Green,98.4,4.3,11.0,16,0,None - High efficiency
+PRJ-282,Beta6 Security Suite,Cybersecurity,Amber,Green,Green,94.0,4.4,19.0,25,1,Skill shortage
+PRJ-283,Gamma6 CRM Portal,Enterprise Systems,Amber,Green,Amber,91.3,4.0,17.0,22,1,Schedule slip
+PRJ-284,Delta6 Analytics Platform,Data & AI,Red,Green,Green,84.5,4.2,25.0,38,2,Milestone misses
+PRJ-285,Epsilon6 Legacy Modernization,Legacy Modernization,Amber,Red,Amber,95.1,2.5,40.0,83,3,High attrition
+PRJ-286,Zeta6 Chatbot,Data & AI,Green,Green,Amber,98.0,4.0,14.0,13,0,Margin erosion
+PRJ-287,Eta6 Supply Chain Portal,Digital Transformation,Green,Green,Green,96.5,3.9,13.0,19,0,None - Smooth rollout
+PRJ-288,Theta6 API Gateway,Cloud & Infra,Green,Green,Green,98.8,4.2,9.0,14,0,None - Predictable velocity
+PRJ-289,Iota6 Identity Mgmt,Cybersecurity,Green,Green,Green,99.5,3.8,14.0,12,0,None - Strong compliance
+PRJ-290,Kappa6 Microservices,Digital Transformation,Amber,Green,Red,89.9,3.0,29.0,45,2,Communication gaps
+PRJ-291,Lambda6 Billing Engine,Enterprise Systems,Red,Amber,Red,88.4,3.1,21.0,58,3,Integration complexity
+PRJ-292,Mu6 Procurement Portal,Digital Transformation,Green,Green,Green,96.9,4.1,11.0,17,0,None - Proactive risk tracking
+PRJ-293,Nu6 Frontend Redesign,Mobility & UX,Green,Red,Green,96.0,2.3,35.0,63,3,Defect leakage and CSAT dip
+PRJ-294,Xi6 Mainframe Offload,Legacy Modernization,Amber,Green,Green,94.1,4.5,16.0,29,1,Skill shortages
+PRJ-295,Omicron6 IoT Platform,Cloud & Infra,Green,Green,Green,98.5,4.6,13.0,20,0,None - Strong execution
+PRJ-296,Phi6 Data Mesh,Data & AI,Green,Green,Green,99.4,4.5,4.0,2,0,None - High satisfaction
+PRJ-297,Chi6 Mobile Payments,Mobility & UX,Amber,Red,Amber,92.1,3.6,32.0,67,2,Defect leakage
+PRJ-298,Psi6 ERP Cloud,Enterprise Systems,Red,Amber,Red,86.9,2.5,38.0,90,4,Vendor delays
+PRJ-299,Omega6 CloudOps,Cloud & Infra,Green,Green,Green,99.7,4.8,2.0,2,0,None - Predictable sprints
+PRJ-300,Alpha7 DevSecOps,DevOps,Green,Green,Green,98.3,4.2,12.0,17,0,None - High efficiency

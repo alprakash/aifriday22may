@@ -1,0 +1,21 @@
+Project_ID,Project_Name,Portfolio_Track,Schedule_Status,Quality_Status,Budget_Status,SLA_Performance_Pct,CSAT_Score,Resource_Attrition_Pct,Defect_Backlog_Count,Critical_Escalations,Primary_Leadership_Concern
+PRJ-101,Alpha Core Migration,Digital Transformation,Amber,Green,Red,92.5,4.2,12.0,14,1,Margin pressure due to unplanned effort and scope creep
+PRJ-102,Beta Mobile App,Mobility & UX,Green,Red,Green,96.2,3.1,28.0,65,3,High defect leakage to QA & declining CSAT due to communication gaps
+PRJ-103,Gamma Analytics Platform,Data & AI,Green,Green,Green,98.1,4.8,8.0,8,0,None - Stable delivery and high customer satisfaction
+PRJ-104,Delta ERP Rollout,Enterprise Systems,Red,Amber,Amber,88.0,3.5,15.0,42,2,Delayed milestones due to cross-vendor dependency & design alignment issues
+PRJ-105,Epsilon Cloud Infrastructure,Cloud & Infra,Green,Green,Green,99.5,4.6,5.0,5,0,None - Strong automation and stable environment baseline
+PRJ-106,Zeta DevOps Pipeline,DevOps,Green,Green,Green,99.1,4.7,7.0,11,0,None - Optimal pipeline velocity and high team efficiency
+PRJ-107,Eta Security Hardening,Cybersecurity,Green,Amber,Green,94.0,4.0,18.0,24,1,Skill shortage in specialized cybersecurity architecture profiles
+PRJ-108,Theta CRM Integration,Enterprise Systems,Amber,Green,Green,91.8,3.8,10.0,19,0,Schedule slip from delayed third-party API availability
+PRJ-109,Iota Data Warehouse,Data & AI,Red,Green,Green,84.5,4.1,22.0,31,2,Critical milestone misses due to infrastructure environment instability
+PRJ-110,Kappa Legacy Modernization,Legacy Modernization,Amber,Red,Amber,95.0,2.9,35.0,78,4,High attrition in core technical team leading to major delivery slippages
+PRJ-111,Lambda AI Chatbot,Data & AI,Green,Green,Amber,97.5,4.5,14.0,12,0,Slight margin erosion due to exploratory R&D spike efforts
+PRJ-112,Mu Supply Chain Portal,Digital Transformation,Green,Green,Green,96.0,4.4,9.0,15,0,None - Smooth phase-wise rollout across regional entities
+PRJ-113,Nu API Gateway,Cloud & Infra,Green,Green,Green,98.8,4.7,6.0,7,0,None - Standard governance and predictable sprint velocity
+PRJ-114,Xi Identity Management,Cybersecurity,Green,Green,Green,99.0,4.3,11.0,9,0,None - Strong compliance and client sign-off on schedule
+PRJ-115,Omicron Microservices,Digital Transformation,Amber,Green,Red,91.2,3.2,25.0,38,2,Communication gaps causing misalignment between product owners and devs
+PRJ-116,Pi Billing Engine,Enterprise Systems,Red,Amber,Red,86.5,3.6,16.0,51,3,Unplanned integration complexity impacting budget and schedule metrics
+PRJ-117,Rho Procurement Portal,Digital Transformation,Green,Green,Green,97.2,4.5,8.0,10,0,None - Robust framework adoption and proactive risk tracking
+PRJ-118,Sigma Frontend Redesign,Mobility & UX,Green,Red,Green,95.5,2.8,30.0,58,3,High defect leakage from inadequate unit testing; severe CSAT dip
+PRJ-119,Tau Mainframe Offload,Legacy Modernization,Amber,Green,Green,93.4,4.0,12.0,22,1,Skill shortages on legacy codebases lengthening resolution timelines
+PRJ-120,Upsilon IoT Platform,Cloud & Infra,Green,Green,Green,98.0,4.6,10.0,13,0,None - Strong execution on milestone timelines and delivery quality
